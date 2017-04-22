@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DrinkPal</string>
+    <string name="title_activity_search_drinks">SearchDrinks</string>
+    <string name="title_activity_common_drinks">CommonDrinks</string>
+    <string name="title_activity_favorites">Favorites</string>
+    <string name="title_activity_options">Options</string>
+    <string name="title_activity_about_us">AboutUs</string>
+</resources>
